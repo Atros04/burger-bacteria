@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url("../images/tenor.gif");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.jumbotron-text {
+    color: deeppink;
+    outline-color: fuchsia;
+    outline-style:double ;
+    outline-width: 15px;
+    font-size: 64px;
+    font-family: cursive;
+}
+
+.jumbotron-description {
+    color: rgb(184, 255, 20);
+    outline-color: rgb(117, 0, 0);
+    outline-style:dotted ;
+    outline-width: 15px;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.roidmaster-9000 {
+    background-color: lawngreen;
+}
+.roidmaster-8000 {
+    background-color:salmon;
+}
+
+.whatever{
+    background-color: black;
+    color: yellow;
+    font-size: 69.314px;
+}
+
+.gauge-description{
+    text-align:right;
+}
+
+.bar-description{
+    text-align:center;
+    font-size: 50px;
+    overflow-wrap: normal;
+}
